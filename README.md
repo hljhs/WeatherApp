@@ -173,3 +173,7 @@ example:
 python main.py news Shanghai
 python main.py news Shanghai --limit 10
 ```
+
+## 4. Others:
+The author of this project is Lijian Huang. 
+Description of the PM Accelerator (from LinkedIn ): The Product Manager Accelerator Program is designed to support PM professionals through every stage of their careers. From students looking for entry-level jobs to Directors looking to take on a leadership role, our program has helped over hundreds of students fulfill their career aspirations.
